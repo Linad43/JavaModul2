@@ -1,4 +1,4 @@
-package org.abstraction.ex2;
+package abstractionLes.ex2;
 
 public class Eagle extends Bird{
     public Eagle(String name, int flySpeed) {

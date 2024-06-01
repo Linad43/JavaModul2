@@ -1,4 +1,4 @@
-package org.abstraction.ex1;
+package abstractionLes.ex1;
 
 public class Piano extends Instrument {
     public Piano(String name) {

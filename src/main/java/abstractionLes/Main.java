@@ -1,12 +1,11 @@
-package org.abstraction;
+package abstractionLes;
 
-import org.abstraction.ex1.*;
-import org.abstraction.ex2.Bird;
-import org.abstraction.ex2.Eagle;
-import org.abstraction.ex2.Hawk;
+import abstractionLes.ex1.*;
+import abstractionLes.ex2.*;
 
 public class Main {
     public static void main(String[] args) {
+
         //ex1
         //----------------------------------------------------
         Instrument guitar = new Guitar("Stratocaster");

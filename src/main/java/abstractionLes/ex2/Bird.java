@@ -1,4 +1,4 @@
-package org.abstraction.ex2;
+package abstractionLes.ex2;
 
 public abstract class Bird {
     String name;

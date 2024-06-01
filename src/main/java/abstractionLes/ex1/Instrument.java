@@ -1,4 +1,4 @@
-package org.abstraction.ex1;
+package abstractionLes.ex1;
 
 public abstract class Instrument {
     String name;
